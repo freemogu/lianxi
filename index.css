@@ -11,3 +11,6 @@ h1{
 .box{
   width: 100px;
 }
+#box{
+  height:100px;
+}
