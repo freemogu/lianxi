@@ -3,9 +3,6 @@ body{
 }
 p{
   color: yellowgreen;
-},
-h1{
-  color:pink;
 }
 h2{
   color:red;
@@ -15,4 +12,7 @@ h1{
 }
 h2{
   color: aliceblue;
+}
+.box{
+  width: 100px;
 }
